@@ -10,6 +10,14 @@ NLP analysis on Sentiment from Earnings Calls. Do different parts of the call (s
 
 [Final Notebook](projects/earnings_call_transcripts_NLP/NLP_Final_Notebook.ipynb)
 
+## Citibike COVID-19 Analysis
+
+### Overview
+CITIbike is the largest bike sharing program in the United States. Bike stations are located across a large swath of New York City covering Manhattan, Brooklyn, Queens, the Bronx and even Jersey City. For many local New Yorkers it provides a fast and efficient means of commuting to work and for getting around the city. Given bike sharing as a key method of transportation, this analysis focused on how the COVID-19 pandemic impacted CITIbike ridership.
+
+[Final Notebook](projects/citibike_apple_maps/NYC_Mobility_EDA.ipynb)
+
+
 ## Opensky streaming data pipeline
 
 ### Overview
