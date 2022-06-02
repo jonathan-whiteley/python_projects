@@ -8,14 +8,14 @@ _Contact_: jonathan.whiteley@berkeley.edu<br>
 ### Overview
 NLP analysis on Sentiment from Earnings Calls. Do different parts of the call (scripted management discussion vs Q&A section) show different sentiment based on evaluation of transcripts from the calls. VADER is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion. It is available in the NLTK package and can be applied directly to unlabeled text data.
 
-[Final Notebook](Projects/earnings%20call%20transcripts%20NLP/NLP%20Earnings%20Call%20Transcripts.ipynb)
+[Final Notebook](projects/earnings_call_transcripts_NLP/NLP_Final_Notebook.ipynb)
 
 ## Opensky streaming data pipeline
 
 ### Overview
 Given the impact of COVID-19 on the aviation industry and travel industry more broadly, this project sought to explore flight tracking data from OpenSky. This project involved constructing an end to end data pipeline, starting with raw events from the OpenSky API and landing in a Presto database for querying/analytics use.
 
-[Final Notebook](Projects/opensky%20streaming%20data%20pipeline/Final_Notebook.ipynb)
+[Final Notebook](projects/opensky streaming data pipeline/Final_Notebook.ipynb)
 
 ## Bitcoin Wallet
 
