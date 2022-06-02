@@ -15,7 +15,7 @@ NLP analysis on Sentiment from Earnings Calls. Do different parts of the call (s
 ### Overview
 Given the impact of COVID-19 on the aviation industry and travel industry more broadly, this project sought to explore flight tracking data from OpenSky. This project involved constructing an end to end data pipeline, starting with raw events from the OpenSky API and landing in a Presto database for querying/analytics use.
 
-[Final Notebook](projects/opensky streaming data pipeline/Final_Notebook.ipynb)
+[Final Notebook](projects/opensky_streaming_data_pipeline/Final_Notebook.ipynb)
 
 ## Bitcoin Wallet
 
