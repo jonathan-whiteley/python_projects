@@ -1,0 +1,1 @@
+docker-compose exec mids kafkacat -C -b kafka:29092 -t planes -o beginning -e
